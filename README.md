@@ -17,3 +17,9 @@ Hence, our project represents a groundbreaking innovation. The synthesis of adva
 deep learning techniques with the delicate details of Indian mythology will revolutionize
 the way tourists engage with and appreciate cultural heritage, offering an unprecedented
 opportunity for exploration, education, and meaningful cultural exchange.
+
+
+![Flowchart](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/8015ce81-a66d-473c-88d1-1a198323e383)
+
+
+[dataset distribution.docx](https://github.com/Adinp1213/Mythic_Vision/files/12428694/dataset.distribution.docx)
