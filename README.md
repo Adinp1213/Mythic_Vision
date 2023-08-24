@@ -22,4 +22,4 @@ opportunity for exploration, education, and meaningful cultural exchange.
 ![Flowchart](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/8015ce81-a66d-473c-88d1-1a198323e383)
 
 
-[dataset distribution.docx](https://github.com/Adinp1213/Mythic_Vision/files/12428694/dataset.distribution.docx)
+![dataset distribution](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/16724494-be34-4d8d-8d7d-b70a92c0f807)
