@@ -1,5 +1,22 @@
 # Mythic_Vision
 
+The
+"Mythic Vision
+"
+software is an innovative and
+socially impactful capstone project aimed at
+enhancing the cultural experience of tourists in
+India. The project seeks to develop a deep
+learning-based software solution that can detect
+and classify representations of Indian deities
+present in cultural artifacts, sculptures, and
+artworks.
+
+By providing accurate and informative insights into Indian
+mythology, the software aims to empower tourists with a
+deeper understanding of the rich cultural heritage and
+traditions of India, thereby enriching their overall tourism
+experience.
 In the context of India
 '
 s unique position as a global tourism hub, where millions of visitors
