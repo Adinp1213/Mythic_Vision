@@ -55,16 +55,28 @@ accurate information and fostering a positive and educational tourism experience
 ![dataset distribution](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/16724494-be34-4d8d-8d7d-b70a92c0f807)
 
 <h2> Models Used </h2>
+ 
+ 
  - MobileNetV2
  - EfficientB0
- -
- -
+ - GoogleNet
+ - ResNet
+
 
  <h2>MobileNet V2</h2>
- ![accuracy_plot](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/f70d25f7-c464-4c1c-96a1-8bcc9e70dd0e)
- ![accuracy_plot](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/31fac16e-7f19-48de-ad0d-1f535a38ebf1)
- ![confusion_matrix](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/f5795608-3348-4ff9-9a36-f52c4205c6c1)
- ![testing_scores](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/28884ff4-e881-4137-80d9-418f4266614a)
+
+![accuracy_plot](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/5982cb68-64f2-46b1-9a67-3d005390c35e)
+![loss_plot](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/0e517c43-ae8d-433f-b173-63e99f82ec9d)
+![confusion_matrix](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/287d9d6f-fc63-4a1f-9be0-9110974ee172)
+![testing_scores](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/9927307f-f529-4469-82eb-9fde2005db22)
 
 
+ <h2>EfficientNet B0</h2>
+
+![accuracy_plot](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/4a7046bb-0f20-45d2-bf2e-dc6a5226d7db)
+![loss_plot](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/b1fd23e2-e6b8-4f33-8459-60d22713626b)
+![Confusion_Matrix](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/fa6ebca3-a10b-479d-bc65-0f5e0dd8c8f3)
+![test_results](https://github.com/Adinp1213/Mythic_Vision/assets/127317650/7691e06c-6bef-4685-aa5c-d8590976c296)
+
+ 
 
