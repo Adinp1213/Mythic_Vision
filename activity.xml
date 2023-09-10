@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- Wrap everything except the buttons in a ScrollView -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/button_layout"> <!-- Scrollable content above the button layout -->
+
+        <!-- Content to be scrolled -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- ImageView -->
+            <ImageView
+                android:layout_width="370sp"
+                android:layout_height="370sp"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/imageView"
+                android:layout_marginTop="10sp"
+                />
+
+            <!-- "Classified as:" TextView -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Classified as:"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:id="@+id/classified"
+                android:layout_marginTop="10sp"
+                />
+
+            <!-- "Result" TextView -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text=""
+                android:textColor="#FBFBFB"
+                android:textStyle="normal"
+                android:textSize="18sp"
+                android:id="@+id/result"
+                android:layout_below="@+id/classified"
+                />
+
+            <!-- Other content can be added here -->
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <!-- Button layout at the bottom -->
+    <RelativeLayout
+        android:id="@+id/button_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <!-- Button for taking a picture -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            android:text="Take Picture"
+            android:textAllCaps="false"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            android:layout_alignParentTop="true"
+            />
+
+        <!-- Button for launching the gallery -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            android:text="Launch Gallery"
+            android:textAllCaps="false"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            android:layout_below="@+id/button"
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>
